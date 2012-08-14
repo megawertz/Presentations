@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Spawner.js">
+    <Files>
+      <File FileName="Assets/Scripts/Rotate.js" Line="18" Column="7" />
+      <File FileName="Assets/Scripts/Bounce.js" Line="3" Column="1" />
+      <File FileName="Assets/Scripts/Spawner.js" Line="25" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
